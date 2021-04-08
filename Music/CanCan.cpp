@@ -159,6 +159,6 @@ int main() {
   Brain.playNote(4, 0, 75);
   Brain.playNote(4, 0, 225);
   Brain.playNote(4, 1, 75);
-  Brain.playNote(3, 3, 600);
+  Brain.playNote(4, 3, 600);
   
 }
